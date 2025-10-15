@@ -1,4 +1,3 @@
-// In-memory database simulation for demo purposes
 const bcrypt = require('bcryptjs');
 
 // Initialize with empty users array - users will be registered via API
